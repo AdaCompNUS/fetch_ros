@@ -1,6 +1,6 @@
 # Base profile
 TrajectoryPlannerROS:
-  acc_lim_x: 0.35
+  acc_lim_x: 1.0
   acc_lim_y: 0.0
   acc_lim_theta: 0.8
   max_vel_x: 0.8
